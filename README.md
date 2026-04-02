@@ -4,3 +4,4 @@ Creating ingress on EKS cluster
 STEP1: Create a EKS Cluster or you an use the existing EKS cluster
 STEP2: Create a NGINX Controller 
 STEP3: Create Ingress Resource
+STEP4: Intiliaze Terraform init,plan &apply
