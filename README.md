@@ -25,3 +25,11 @@ Create TLS Certifciate key-pair \
 Create Secret with TLS Data <br>
 Update ingress Resource with TLS 
 
+TLS Certificate
+
+openssl req -x509 -newkey rsa:4096 -sha256 -nodes -keyout tls.key -out tls.crt -subj "/CN=<url>" -days 365 \
+
+<img width="500" height="263" alt="image" src="https://github.com/user-attachments/assets/64b379d2-11d5-4d62-843d-2d4f27a31a8d" />
+
+
+
