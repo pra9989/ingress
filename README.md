@@ -13,3 +13,12 @@ STEP3: Create Ingress Resource
 STEP4: Intiliaze Terraform init,plan &apply
 999999999999999999999999999999999999999999999999999
 
+
+INGRESS CONTROLLER WITH TLS
+
+Create service & pod
+Create ingress Resource (with some host name)
+Create TLS Certifciate key-pair
+Create Secret with TLS Data
+Update ingress Resource with TLS
+
