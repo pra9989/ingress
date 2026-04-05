@@ -18,7 +18,7 @@ INGRESS CONTROLLER WITH TLS
 
 Create service & pod
 Create ingress Resource (with some host name)
-Create TLS Certifciate key-pair
-Create Secret with TLS Data
+Create TLS Certifciate key-pair \
+Create Secret with TLS Data <br>
 Update ingress Resource with TLS
 
